@@ -1,3 +1,3 @@
 Computer-Science
 ================
-This is a repository my Computer Science files
+This is a repository for my Computer Science files
